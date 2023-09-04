@@ -3,3 +3,5 @@ this is a test
 add another line to test 
 
 another test??
+
+Hi, this is to test branch merging! 
